@@ -605,8 +605,8 @@ else
 
     <!-- copyright -->
     <div class="cpy-right text-center py-3">
-        <p>© 2019 Shopify. All rights reserved | Design by
-            <a href="#"> GFGC.</a>
+        <p>© 2022 Shopify. All rights reserved | Design by
+            <a href="#"> Jeevan K S</a>
         </p>
 
     </div>
